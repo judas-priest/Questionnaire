@@ -1,5 +1,7 @@
 # Questionnaire
 
+![Application preview](preview.png)
+
 Simple survey app built with Vue.js 3 that saves results as PDF
 
 Questionnaire is a simple survey application built with Vue.js 3. It allows users to answer questions sourced from a JSON format, and the results are saved in a PDF format.
