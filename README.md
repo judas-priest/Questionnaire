@@ -48,7 +48,7 @@ Questionnaire is a simple survey application built with Vue.js 3. It allows user
        "placeholder": "e.g. Judas Priest, Metallica, Iron Maiden, etc"
      },
      {
-       "question": "3. Who is your favorite Star Wars character?",
+       "question": "2. Who is your favorite Star Wars character?",
        "placeholder": "e.g. Luke Skywalker, Darth Vader, Han Solo, Princess Leia, etc"
      }
    ]
@@ -73,3 +73,7 @@ npm run build
 ```
 
 This will generate minified and optimized files in the /dist directory.
+
+## License
+
+Distributed under the GPL v3 License. See `LICENSE.txt` for more information.
