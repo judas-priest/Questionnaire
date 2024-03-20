@@ -1,0 +1,19 @@
+[
+  { "question": "1. What is your favorite color?", "placeholder": "e.g. Blue, Red, Green, etc" },
+  {
+    "question": "2. How often do you exercise?",
+    "placeholder": "e.g. Once a week, Three times a week"
+  },
+  {
+    "question": "3. Do you prefer coffee or tea?",
+    "placeholder": "e.g. Coffee, Tea, Neither"
+  },
+  {
+    "question": "4. Have you ever traveled to another country?",
+    "placeholder": "e.g. Yes, No"
+  },
+  {
+    "question": "5. What is your favorite book/movie?",
+    "placeholder": "e.g. To Kill a Mockingbird, The Shawshank Redemption"
+  }
+]
